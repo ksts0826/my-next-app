@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Memo
 
+add nodejs_compat
+
 ## Getting Started
 
 First, run the development server:
